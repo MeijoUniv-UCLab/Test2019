@@ -1,3 +1,8 @@
 Hidekazu Suzuki
 Meijo University
+meijo-kondo
+Hoge
+Science
+
 conflict test
+test by HK
